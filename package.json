@@ -1,0 +1,24 @@
+{
+  "name": "Javascript-testing",
+  "version": "1.0.0",
+  "description": "mastering chai and mocha testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makhijas/Javascript-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/makhijas/Javascript-testing/issues"
+  },
+  "homepage": "https://github.com/makhijas/Javascript-testing#readme",
+  "devDependencies": {
+    "chai": "^4.3.0",
+    "mocha": "^8.2.1"
+  }
+}
